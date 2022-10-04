@@ -33,6 +33,6 @@ We want money long
 - end of the list 
 **end of the list*uuuu*
 ### links
-my best site [left island]([http://lb.ua](https://www.youtube.com/))
+my best site [left island](https://www.youtube.com/)
 
 
